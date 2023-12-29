@@ -1,1 +1,2 @@
-# Pong-game-
+# Pong-game
+# OpenGL
