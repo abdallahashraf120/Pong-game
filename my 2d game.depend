@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703436546 source:e:\assignment\my 2d game\main.c
+	<GL/glut.h>
+	<stdbool.h>
+
